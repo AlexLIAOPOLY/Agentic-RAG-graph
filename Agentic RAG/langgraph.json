@@ -1,0 +1,14 @@
+{
+    "graphs": {
+      "RAG_research": "./rag_agent.py:rag_agent",
+      "GraphRAG_research": "./graphrag_agent.py:graphrag_agent",
+      "deep_research": "./src/open_deep_research/workflow/workflow.py:workflow",
+      "supervisor": "./rag_agent_pro.py:supervisor",
+      "agentic-rag": "./rag_agent_pro.py:supervisor"
+    },
+    "python_version": "3.11",
+    "env": "./.env",
+    "dependencies": [
+      "."
+    ]
+}

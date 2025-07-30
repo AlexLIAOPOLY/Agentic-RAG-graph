@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+langchain-anthropic
+faiss-cpu
+graphrag
+tavily-python
+exa_py
+linkup-sdk
+beautifulsoup4
+markdownify
+azure-search-documents
+duckduckgo-search
